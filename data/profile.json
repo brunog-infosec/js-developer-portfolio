@@ -37,18 +37,8 @@
     ]
   },
   "languages": [
-    {
-      "name": "Português",
-      "level": "Nativo"
-    },
-    {
-      "name": "Inglês",
-      "level": "Intermediário"
-    },
-    {
-      "name": "Espanhol",
-      "level": "Básico"
-    }
+    "Portugues BR",
+    "Ingles (Leitura)"
   ],
   "educacao": [
     {
