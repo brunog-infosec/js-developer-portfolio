@@ -48,9 +48,9 @@ function updateProfissionalExperiences(profileData) {
     experiences.innerHTML = profileData.experiences.map(experience => {
         return `
         <li>
-            <h3 class="title" id="profile.profissionalExperience">${experience.name}</h3>
-            <p class="period" id="profile.profissionalExperience.period">${experience.period}</p>
-            <p id="profile.profissionalExperience.description">
+            <h3 class="title">${experience.name}</h3>
+            <p class="period">${experience.period}</p>
+            <p>
                 ${experience.description}.
             </p>
         <li>`}).join('')
