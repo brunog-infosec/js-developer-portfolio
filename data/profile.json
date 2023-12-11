@@ -36,18 +36,18 @@
       "Organização"
     ]
   },
-  "idiomas": [
+  "languages": [
     {
-      "nome": "Português",
-      "nivel": "Nativo"
+      "name": "Português",
+      "level": "Nativo"
     },
     {
-      "nome": "Inglês",
-      "nivel": "Intermediário"
+      "name": "Inglês",
+      "level": "Intermediário"
     },
     {
-      "nome": "Espanhol",
-      "nivel": "Básico"
+      "name": "Espanhol",
+      "level": "Básico"
     }
   ],
   "educacao": [
