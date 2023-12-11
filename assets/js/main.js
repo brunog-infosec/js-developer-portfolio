@@ -61,4 +61,5 @@ function updateProfissionalExperiences(profileData) {
     updateHardSkills(profileData)
     updateLanguages(profileData)
     updatePortfolio(profileData)
+    updateProfissionalExperiences(profileData)
 })()
