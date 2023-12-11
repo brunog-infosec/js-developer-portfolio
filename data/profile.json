@@ -8,17 +8,26 @@
   "skills": {
     "hardSkills": [
       {
-        "nome": "Android",
-        "logo": "TODO"
+        "name": "JavaScript",
+        "logo": "https://github.com/brunog-infosec/js-developer-portfolio/blob/projeto-base/data/imgs/js.png"
       },
       {
-        "nome": "Java",
-        "logo": "TODO"
+        "name": "Html",
+        "logo": "https://github.com/brunog-infosec/js-developer-portfolio/blob/projeto-base/data/imgs/html.png"
       },
       {
-        "nome": "Kotlin",
-        "logo": "TODO"
+        "name": "Css",
+        "logo": "https://github.com/brunog-infosec/js-developer-portfolio/blob/projeto-base/data/imgs/css.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://github.com/brunog-infosec/js-developer-portfolio/blob/projeto-base/data/imgs/git.png"
+      },
+      {
+        "name": "Github",
+        "logo": "https://raw.githubusercontent.com/brunog-infosec/js-developer-portfolio/projeto-base/data/imgs/github.png"
       }
+      
     ],
     "softSkills": [
       "Facilidade de comunicação",
