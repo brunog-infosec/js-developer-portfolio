@@ -9,19 +9,19 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "https://github.com/brunog-infosec/js-developer-portfolio/blob/projeto-base/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/brunog-infosec/js-developer-portfolio/projeto-base/data/imgs/js.png"
       },
       {
         "name": "Html",
-        "logo": "https://github.com/brunog-infosec/js-developer-portfolio/blob/projeto-base/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/brunog-infosec/js-developer-portfolio/projeto-base/data/imgs/html.png"
       },
       {
         "name": "Css",
-        "logo": "https://github.com/brunog-infosec/js-developer-portfolio/blob/projeto-base/data/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/brunog-infosec/js-developer-portfolio/projeto-base/data/imgs/css.png"
       },
       {
         "name": "Git",
-        "logo": "https://github.com/brunog-infosec/js-developer-portfolio/blob/projeto-base/data/imgs/git.png"
+        "logo": "https://raw.githubusercontent.com/brunog-infosec/js-developer-portfolio/projeto-base/data/imgs/git.png"
       },
       {
         "name": "Github",
